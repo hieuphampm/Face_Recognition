@@ -1,4 +1,4 @@
-# 🧠 Face Recognition using Metric Learning & Web Deployment
+# Face Recognition using Metric Learning & Web Deployment
 
 This project demonstrates how to build a **face recognition system** using **Metric Learning** with Triplet Loss. The system learns to map faces into an embedding space where similar faces are close together, and dissimilar faces are far apart.
 
