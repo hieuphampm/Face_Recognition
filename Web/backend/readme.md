@@ -3,7 +3,7 @@ Each subfolder under `root_folder` should be named after a unique label (e.g., `
 
 ---
 
-## ✅ Usage
+## Usage
 
 Use this folder structure when preparing data for training any of the models (Model 1, 2, or 3). The model will:
 - Iterate through each label folder
@@ -23,3 +23,5 @@ When evaluating or retrieving similar images:
 ## Tip
 
 Make sure image filenames do not repeat across different folders, and that image extensions are consistent (`.jpg`, `.png`, etc.).
+
+Please create a folder "gallery".
